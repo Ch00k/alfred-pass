@@ -14,6 +14,11 @@ $ brew install pass python3
 
 The workflow assumes that the passwords storage directory is in `~/.password-store`.
 
+# Installation
+
+Download the latest release (`pass.alfredworkflow` file) from [Releases](https://github.com/Ch00k/alfred-pass/releases)
+page, double-click on the downloaded file, and follow Alfred's instructions.
+
 # Usage
 
 In Alfred command line type `pass` followed by a filter term matching an account you want to get a password for. The
